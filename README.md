@@ -23,12 +23,4 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="js" width="40" height="40"/>&nbsp;
 
-
-### Моя статистика
-
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NgCodeProj&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NgCodeProj&theme=github_dark" alt=""/>
-</div>
-
 ---
